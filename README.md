@@ -10,23 +10,23 @@ Uniform / Gaussian 분포를 가지는 난수 발생 및 PDF / CDF 그리기
 ## week4
 샘플링-양자화-부호화-복호화-복원 과정을 매트랩을 통해 구현
 ## week5
-BPSK 변조/복조 이해  
-BPSK Constellation 이해  
-AWGN 채널에서 BPSK BER 실험값 도출
+- BPSK 변조/복조 이해  
+- BPSK Constellation 이해  
+- AWGN 채널에서 BPSK BER 실험값 도출
 ## week6
-QPSK 변조/복조 이해  
-QPSK Constellation 이해  
-AWGN 채널에서 QPSK BER 실험값 도출
+- QPSK 변조/복조 이해  
+- QPSK Constellation 이해  
+- AWGN 채널에서 QPSK BER 실험값 도출
 ## week7
-Passband와 Baseband 간 등가(equivalence) 관계 이해  
-Rayleigh 페이딩 채널 생성 및 채널 보상  
-Rayleigh 페이딩 환경에서 BPSK BER 산출  
+- Passband와 Baseband 간 등가(equivalence) 관계 이해  
+- Rayleigh 페이딩 채널 생성 및 채널 보상  
+- Rayleigh 페이딩 환경에서 BPSK BER 산출  
 ## week8
-BPSK 방식으로 변조된 수신 신호를 복조하여 얻어진 이미지 데이터 출력  
-Eb/No 값에 따라 이미지 훼손 정도의 차이를 확인
+- BPSK 방식으로 변조된 수신 신호를 복조하여 얻어진 이미지 데이터 출력  
+- Eb/No 값에 따라 이미지 훼손 정도의 차이를 확인
 ## week10
-OFDM 변조 / 복조의 기본 원리를 이해  
-CP가 없는 기본적인 OFDM 신호의 송수신
+- OFDM 변조 / 복조의 기본 원리를 이해  
+- CP가 없는 기본적인 OFDM 신호의 송수신
 ## week11
 OFDM 기반의 Wi-Fi 신호의 송수신
 ## Project
